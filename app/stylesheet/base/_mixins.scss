@@ -1,0 +1,5 @@
+@mixin rotate-img {
+  animation: rotate-images 20s infinite;
+  -moz-animation: rotate-images 20s infinite;
+  -webkit-animation: rotate-images 20s infinite;
+}

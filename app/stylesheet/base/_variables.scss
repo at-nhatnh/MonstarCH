@@ -1,0 +1,25 @@
+
+//search-icon
+$color-back: #101010;
+$color-back-primary: #383838;
+
+//popup:
+.error{
+    color: red;
+}
+
+.success{
+
+}
+
+.warning{
+    color: yellow;
+}
+.witdh_500{
+	max-width: 500px;
+}
+//keyframe
+@keyframes rotate-images{
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
